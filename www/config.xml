@@ -4,7 +4,7 @@
     <description>TCCC Travel FAQ app</description>
     <author email="" href="http://phonegap.com">GSS Manila COE</author>
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="3.4.0" />
+	<preference name="phonegap-version" value="cli-5.2.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
@@ -38,6 +38,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
+	<gap:plugin name="cordova-plugin-camera" source="npm" />
 	
     <icon src="res/icon/icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="res/icon/android/icon-36-ldpi.png" />
