@@ -17,13 +17,13 @@ appUI.blocked = false;
 appUI.slideCountries = function() {
 	if (appUI.blocked) return;
 	//$("#listPanel").panel("toggle");
-	$('#listPanel').trigger('collapse');
+	$('#listPanel').trigger('expand');
 }
 
 appUI.slideOptions = function() {
 	if (appUI.blocked) return;
 	//$("#optionsPanel").panel("toggle");
-	("#optionsPanel").trigger('collapse');
+	("#optionsPanel").trigger('expand');
 }
 
 appUI.popAbout = function() {
