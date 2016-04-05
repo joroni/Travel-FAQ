@@ -35,7 +35,8 @@ config.localDBSize = 50 * 1024 * 1024;
 config.localDBVersion = "1.0";
 config.localDBCountryTable = 'country_detail';
 
-config.remoteServerAddress = "http://icokecontent.chinacloudapp.cn/store/travelfaq/";
+//config.remoteServerAddress = "http://icokecontent.chinacloudapp.cn/store/travelfaq/";
+config.remoteServerAddress = "http://northfitnesshub.com/koproj/travelko/";
 config.remoteDataFileName = "TravelFAQData.xml";
 config.remoteDataFlagsFolder = "flags";
 config.remoteConnectTimeout = 5000;
