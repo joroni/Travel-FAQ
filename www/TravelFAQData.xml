@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">TravelFAQData</title>
+  <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData</id>
+  <updated>2016-03-16T06:24:23Z</updated>
+  <link rel="self" title="TravelFAQData" href="TravelFAQData" />
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(1)</id>
+    <title type="text">Philippines</title>
+    <updated>2015-02-25T12:46:00-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(1)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(1)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(1)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(1)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(1)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Philippines</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>PH</d:CountryISOCode>
+        <d:CountryDialInCode>63</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 0 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 0 &amp;#160;00 &amp;#160;&amp;lt;Country Code&amp;gt; &amp;#160;&amp;lt;Area Code&amp;gt; &amp;#160;&amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall&lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial &amp;#160;+ &amp;#160;&amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58;&amp;#160; If in Manila&amp;#58; 849 8555&amp;#160;&amp;#160;&amp;#160; Outside Manila&amp;#58; 028 498 555&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 1 800 111 01311&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;TAGUIG CITY&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;The Coca-Cola Far East Ltd.&lt;br&gt;24th Floor, Net Lima, 5th Avenue corner 26th Street, &lt;br&gt;Bonifacio Global City, Taguig 1634. &lt;br&gt;Tel&amp;#58; +63 2 8112085&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>14.548014, 121.04999</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 513 (FY2014) &lt;br&gt;KO Market Share&amp;#58; 47.5% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Fanta, Spirte, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58; 122&amp;#160;(FY2014)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Coca-Cola FEMSA Philippines&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;MAKATI&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;Makati Shangri-La, Ayala Crn Makati Avenues, Tel&amp;#58; +63 2 8138888&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Mandarin Oriental Manila, Makati Avenue, Tel&amp;#58; +63 2 7508888&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press&amp;#160;0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;
+&lt;div&gt;- Local&amp;#58; 02 849 8111&lt;/div&gt;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 117&lt;br&gt;Hospital (Ambulance)&amp;#58; 143 &lt;br&gt;Fire Station&amp;#58; 7295166&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Airport&amp;#58; Manila Airport +63 2 5216666&amp;#160;&lt;br&gt;Weather (PAGASA)&amp;#58; 4338526&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">1</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-25T12:46:00</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-22T19:48:50</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">32</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(2)</id>
+    <title type="text">China</title>
+    <updated>2015-02-06T16:20:01-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(2)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(2)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(2)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(2)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(2)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>China</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;strong&gt;Coca-Cola Beverages(Shanghai) Co., Ltd - Jinqiao Office&lt;br&gt;&lt;/strong&gt;No. 539, Gui Qiao Road, Pu Dong Jinqiao Export Process Area, Shanghai&lt;/div&gt;
+&lt;div&gt;Tel&amp;#58; +86 21 61928000 &lt;br&gt;上海浦东金桥出口加工区桂桥路539号&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates>31.243632,121.612671</d:OfficeLoc2Coordinates>
+        <d:OfficeLocation3>&lt;div&gt;&lt;strong&gt;Coca-Cola Beverages(Shanghai) Co., Ltd - Beijing Office&lt;br&gt;&lt;/strong&gt;1702, Full Link Plaza, No.18 Chaoyangmenwai Avenue&lt;/div&gt;
+&lt;div&gt;Tel &amp;#58; +86 10 58610188&lt;br&gt;中国北京朝阳门外大街18号 丰联广场大厦1702室&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates>39.924137,116.43847</d:OfficeLoc3Coordinates>
+        <d:OfficeLocation4>&lt;div&gt;&lt;strong&gt;Coca-Cola Beverages(Shanghai) Co., Ltd - Guangzhou Office&lt;/strong&gt;&lt;br&gt;32/F, Peace World Plaza, No. 362-366, Huan Shi Dong Road.&amp;#160; &lt;/div&gt;
+&lt;div&gt;Tel &amp;#58; +86 20 83878646&lt;br&gt;中国广东省广州市环市东路362-366号好世界广世界广场32樓&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates>23.13633,113.284981</d:OfficeLoc4Coordinates>
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>CN</d:CountryISOCode>
+        <d:CountryDialInCode>86</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 00&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; 400 692 0023&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 800 870 0323 (local deskphone only)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola Beverages(Shanghai) Co., Ltd - Zizhu Office&lt;br&gt;&lt;/strong&gt;No. 1188, Ziyue Road, ZiZhu Science Based Industrial Park.&amp;#160;&lt;/div&gt;
+&lt;div&gt;Tel&amp;#58; +86 21 61928000&lt;br&gt;中国上海市闵行区紫竹科技园紫月路1188号&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>31.015578,121.441857</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;KO Volume&amp;#58; 2,377 mmuc (FY2014)&lt;br&gt;KO Market Share&amp;#58; 20.4% volume share (FY2014, based on Nielsen 6 categories)&lt;br&gt;KO Top 3 Brands&amp;#58; Sprite, Coca-Cola, Minute Maid&lt;br&gt;KO Per Capita Consumption &amp;#58;&amp;#160; 42 (FY2014)&lt;/div&gt;
+&lt;div&gt;# of Bottlers and Name of Top 3 Bottlers &amp;#58; 4 / Swire, BIG-China, COFCO&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;BEIJING&lt;br&gt;&lt;/strong&gt;China World Hotel ,&amp;#160; 1 Jian Guo Men Wai Ave, Tel &amp;#58;+86 10 65052266&lt;br&gt;中国大饭店,建国门外大街1号&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Crowne Plaza Hotel Beijing Chaoyang U-Town, No.3 Sanfeng North Area,Chaoyang District Tel&amp;#58;+86 10 59096688&lt;br&gt;皇冠假日酒店北京朝阳悠唐镇 三丰北片区3号,北京市朝阳区&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Shangri-La Beijing ,&amp;#160; 29 Zizhuyuan Rd, Tel &amp;#58; +86 10 68412211&lt;br&gt;北京香格里拉大酒店,海淀区紫竹院路29号&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Sheraton Beijing Dongcheng Hotel, 36 North Third Ring Road East, Tel&amp;#58;+86 10 58257944&lt;br&gt;北京东城喜来登酒店,北三环东路36号东&lt;br&gt;&amp;#160;&amp;#160; &lt;br&gt;&lt;strong&gt;SHANGHAI&lt;br&gt;&lt;/strong&gt;Pudong Shangri-la Shanghai , 33 Fucheng Road ,Tel&amp;#58;+86 21 68828888&lt;br&gt;上海浦东香格里拉大酒店 浦东新区富城路33号&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Sheraton HongQiao Shanghai, 5 South Zunyi Road, Tel&amp;#58;+86 21 62758888&lt;br&gt;虹桥喜来登上海太平洋大饭店, 长宁区遵义南路5号&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The Westin Bund Center, 88 Henan Central Rd, Tel &amp;#58; +86 21 63351888&lt;br&gt;威斯汀大酒店, 河南中路88号外滩中心&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Radisson Blu Hotel Shanghai New World, 88. Nanjing Rd West , Tel&amp;#58;+86 21 63599999&lt;br&gt;Radisson Blu 酒店上海新世界, 88号南京西路&lt;br&gt;&amp;#160;&amp;#160; &lt;br&gt;&lt;strong&gt;GUANGZHOU&lt;br&gt;&lt;/strong&gt;Sheraton Guangzhou Hotel, West Tower, 208 Tianhe Road, Tel &amp;#58;+86 20 85274373&lt;br&gt;粤海喜来登酒店,天河路208号&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The Westin Guangzhou Hotel, Lin He Zhong Rd, Tian He, Tel &amp;#58;+86 20 61130095&lt;br&gt;威斯汀广州大酒店 临河中路&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 0411 39766767/77&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 110&lt;br&gt;Hospital (Ambulance)&amp;#58; 120&lt;br&gt;Fire Station&amp;#58;119&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Taxi Services&amp;#58;&lt;br&gt;- Shanghai 96822&lt;/div&gt;
+&lt;div&gt;- Beijing&amp;#160; 96106&lt;/div&gt;
+&lt;div&gt;- Guangzhou 96900&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Airport&amp;#58;&lt;br&gt;- Shanghai Pudong airport &amp;amp; Hongqiao airport&amp;#160;021 96990&lt;br&gt;- Beijing Capital airport&amp;#160;010 96158&lt;br&gt;- Guangzhou Baiyun airport&amp;#160;020 36066999&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">2</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-06T16:20:01</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-22T22:12:08</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">34</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(3)</id>
+    <title type="text">Australia</title>
+    <updated>2014-07-28T12:28:07-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(3)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(3)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(3)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(3)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(3)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Australia</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>AU</d:CountryISOCode>
+        <d:CountryDialInCode>61</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;&#xD;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To make local call&amp;#58; Dial 0 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To make International Call&amp;#58; Dial 0&amp;#160; 0011&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;li&gt;Use Intercall&lt;/li&gt;&#xD;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Call local number below&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local number&amp;#58; 02 8985 2450 - Sydney&lt;/li&gt;&#xD;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&#xD;
+&lt;li&gt;Toll-Free&amp;#58; 1800 240 384&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;strong&gt;Coca-Cola South Pacific Australia Office&lt;/strong&gt;&lt;br&gt;L9, 40 Mount Street North Sydney, NSW 2060.&lt;br&gt;Tel&amp;#58; +612 9291 3611</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>-33.838601, 151.206000</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 288&lt;br&gt;KO Market Share&amp;#58; 35.8%&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola, Diet Coke, Sprite&lt;br&gt;KO Per Capita Consumption&amp;#58;&amp;#160; 302.8&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Coca-Cola Amatil&lt;/div&gt;&#xD;
+&lt;div&gt;DATA AS OF 2013&lt;br&gt;&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;SYDNEY&lt;br&gt;&lt;/strong&gt;Four Seasons Sydney, 199 George St.&amp;#160; Tel&amp;#58; +61 2 9250 3100&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Intercontinental Sydney, 117 Macquarie St.&amp;#160; Tel&amp;#58;+61 2 9240 1202&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Shangri-La Sydney, 176 Cumberland St.&amp;#160;&amp;#160; Tel&amp;#58;+61 2 9250 6000&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Sheraton On The Park, 161 Elizabeth St. Tel&amp;#58;+61 2 9290 4000&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;The Westin Sydney, No. 1, Martin Pl.&amp;#160; Tel&amp;#58; +61 2 8223 1111&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;&#xD;
+&lt;div&gt;- Local&amp;#58; 02 92913500&lt;/div&gt;&#xD;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;&#xD;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Police Station&amp;#58; 000&lt;br&gt;Hospital (Ambulance)&amp;#58; 119&lt;br&gt;Fire Station&amp;#58; 118&lt;br&gt;Taxi Services&amp;#58; 133100&lt;br&gt;Airport&amp;#58; Airport Dr, Mascot NSW 2020, Australia Tel&amp;#58; +61-2-96679111&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">3</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2014-07-28T12:28:07</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-27T20:22:44</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">25</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;2&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(4)</id>
+    <title type="text">Hong Kong</title>
+    <updated>2016-03-07T16:07:45-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(4)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(4)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(4)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(4)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(4)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Hong Kong</d:CountryName>
+        <d:OfficeLocation2>&lt;p&gt;&amp;#160;&lt;/p&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>HK</d:CountryISOCode>
+        <d:CountryDialInCode>852</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 009&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; 3051 2737&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 800 933 749&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola China Limited&lt;br&gt;&lt;/strong&gt;18/F, Lincoln House, TaiKoo Place, 979 King's Road, Quarry Bay. Tel&amp;#58; +852 31955500&lt;/div&gt;
+&lt;div&gt;可口可樂中國有限公司 香港鲗鱼涌英皇道979号太古坊 林肯大厦 18樓&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>22.287689, 114.212254</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>Volume (M UC)&amp;#58; 60.6 (FY2015)&lt;br&gt;KO Market Share&amp;#58; 29.8% (2015)&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola, Schweppes, Bonaqua (2015)&lt;br&gt;KO Per Capita Consumption&amp;#58;&amp;#160;198 (FY2015)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Swire Coca-Cola Hong Kong</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;HONGKONG&lt;br&gt;&lt;/strong&gt;Conrad Hong Kong Hotel, Pacific Place, 88 Queensway,Tel&amp;#58;+852 25213838&lt;br&gt;香港港麗酒店, 金鐘道88號 太古廣場&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Crowne Plaza Causeway Bay, 8 Leighton Rd,Tel&amp;#58; +852 39803398&lt;br&gt;皇冠假日酒店, 銅鑼灣禮頓道8 號&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;East Hotel, 29 Taikoo Shing Rd, Tel&amp;#58; +852 39683968&lt;br&gt;東隅酒店, 港島東太古城道 29號&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Island Shangri-La, Pacific Place, Supreme Court Road, Central Tel&amp;#58;+852 28773838&lt;br&gt;港島香格里拉大酒店,香港中區法院道太古廣場&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 6963 0267&lt;/div&gt;
+&lt;div&gt;- TFN&amp;#58; 800 960 266&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 999&lt;br&gt;Hospital (Ambulance)&amp;#58; 999&lt;br&gt;Fire Station&amp;#58; 999&lt;br&gt;Taxi Services&amp;#58; 66201638 &lt;br&gt;Airport&amp;#58; HK International Airport +852 21818888&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">4</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2016-03-07T16:07:45</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-28T13:41:51</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">31</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">2</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;5&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(5)</id>
+    <title type="text">India</title>
+    <updated>2016-03-16T14:22:08-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(5)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(5)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(5)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(5)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(5)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>India</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>IN</d:CountryISOCode>
+        <d:CountryDialInCode>91</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 0 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 0&amp;#160; 00&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; 01133660040 - New Delhi; 08039191231 - Bangalore; 02230985675 - Mumbai&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 1 800 301 05550&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;strong&gt;Coca-Cola India Pvt Ltd&lt;br&gt;&lt;/strong&gt;One Horizon Centre, 
+DLF Golf Course Road, DLF Phase 5, Sector 43, 
+Gurgaon, Haryana 122002
+&amp;#160;&amp;#160;&amp;#160; Tel&amp;#58; +91 124 478 5000/5001&lt;br&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>28.451562, 77.098452</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;FY2013&lt;/div&gt;
+&lt;div&gt;Volume&amp;#58; 732 mmuc &lt;/div&gt;
+&lt;div&gt;KO Market Share&amp;#58; 48.8% NARTD share&lt;br&gt;KO Top 3 Brands&amp;#58; Sprite,Thums Up, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58; 14&lt;/div&gt;
+&lt;div&gt;# of Bottlers&amp;#58; 13 Franchises (15 bottlers) &amp;amp; HCCB / BIG&lt;/div&gt;
+&lt;div&gt;Top 3 Bottlers&amp;#58;&amp;#160;Hindustan Coca-Cola Beverages, Kandhari Beverages, Moon Beverages&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;GURGAON&lt;/strong&gt;&lt;br&gt;The Westin Gurgaon, New Delhi,&amp;#160; Number 1, MG Road, Sector 29,Tel&amp;#58;+91 124 4977777&lt;br&gt;वेस्टिन गुड़गांव,नंबर 1, एमजी रोड, सेक्टर 29&amp;#58; &lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Police Station&amp;#58; 100&lt;br&gt;Hospital (Ambulance)&amp;#58; 102&lt;br&gt;Fire Station&amp;#58; 101&lt;br&gt;Taxi Services&amp;#58; Please call hotel helpdesk&lt;br&gt;Airport&amp;#58; Indira Gandhi International Airport +91 124 337 6000&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">5</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2016-03-16T14:22:08</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-28T13:55:26</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">34</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">5</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(6)</id>
+    <title type="text">Indonesia</title>
+    <updated>2015-02-25T12:45:01-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(6)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(6)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(6)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(6)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(6)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Indonesia</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>ID</d:CountryISOCode>
+        <d:CountryDialInCode>62</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 007&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;or Dial 7&amp;#160; 001&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; N/A&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58;&amp;#160; 001 803 019 7098&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;PT. Coca-Cola Indonesia&lt;br&gt;&lt;/strong&gt;Wisma GKBI,18th Floor, Jl. Jendral Sudirman 28 Jakarta 10210, Indonesia.&lt;/div&gt;
+&lt;div&gt;Tel&amp;#58; +62 21 57988200&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>-6.20889, 106.807514</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 190 (FY2014)&lt;br&gt;KO Market Share&amp;#58; 8.4% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Sprite,&amp;#160; Frestea,&amp;#160; Fanta&lt;br&gt;KO Per Capita Consumption&amp;#58; 18 (FY2014)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 2 / Coca-Cola Amatil, Pt Bangun Wenang Beverage Bottling Company&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;INDONESIA&lt;br&gt;&lt;/strong&gt;Shangri-La Jakarta, Kota BNI Jl. Jend. Sudirman Kav. 1,Tel&amp;#58;+62 21 29229999&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Hotel Mulia Senayan, Jl. Asia Pacific Afrika Senayan, Jakarta, Tel&amp;#58; +62 21 5747777&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Novotel Bali Nusa Dua Hotel &amp;amp; Residences, Jl. Pantai Mengiat,Tel&amp;#58; +62 361 8480555&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;
+&lt;div&gt;- Local&amp;#58; 21 5798 8310&lt;/div&gt;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Police Station&amp;#58; 110&lt;br&gt;Hospital (Ambulance)&amp;#58; 118 or 119&lt;br&gt;Fire Station&amp;#58; 113 or 1131 &lt;br&gt;Taxi Services&amp;#58; Please call hotel helpdesk&lt;br&gt;Airport&amp;#58; Jakarta (Soekarno-Hatta) International Airport +62 21 5505179&lt;br&gt;Emergency&amp;#58; 112&lt;br&gt;SAR (Search And Rescue)&amp;#58; 115&lt;/div&gt;
+&lt;div&gt;Red Cross&amp;#58; +62 21 4207051&lt;/div&gt;
+&lt;div&gt;Toxicity Info Centre&amp;#58; +62 21 4250767&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">6</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-25T12:45:01</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-05-28T14:25:11</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">32</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(7)</id>
+    <title type="text">Japan</title>
+    <updated>2015-02-10T15:28:43-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(7)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(7)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(7)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(7)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(7)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Japan</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&amp;#160;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>JP</d:CountryISOCode>
+        <d:CountryDialInCode>81</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 0 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 0&amp;#160; 010&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58;&amp;#160; 034 503 6065&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 012 099 4938&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola (Japan) Co., Ltd &lt;br&gt;&lt;/strong&gt;Roppong Ark-Hills South Tower 9F, 1-4-5 Roppongi, Minato-ku, Tokyo 106-0032&lt;/div&gt;
+&lt;div&gt;Tel&amp;#58;+81 3&amp;#160;5574 4800&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;日本コカ・コーラ株式会社&lt;br&gt;106-0032&lt;br&gt;東京都港区六本木1-4-5 六本木アークヒルズサウスタワー9階&lt;br&gt;&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>35.664670, 139.739380</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 964(FY2014)&lt;br&gt;KO Market Share&amp;#58; 28.5%(2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Georgia, Aquarius, Coca-Cola(2014)&lt;br&gt;KO Per Capita Consumption&amp;#58; 182.6(FY2014)&lt;br&gt;# of Bottlers and Name of Top&amp;#160;2 Bottlers&amp;#58;&amp;#160;7 / Coca-Cola East, Coca-Cola West&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;TOKYO&lt;br&gt;&lt;/strong&gt;Ana Intercontinental Tokyo, 1-12-33 Akasaka Minato-Ku,Tel&amp;#58;+81 3 3505111&lt;br&gt;ANAインターコンチネンタルホテル東京 ,東京都港区赤坂1-12-33&lt;br&gt;&amp;#160;&amp;#160; &lt;br&gt;Cerulean Tower Tokyu Hotel, 26-1 Sakuragaoka-Cho,Tel&amp;#58;+81 3 34763000&lt;br&gt;セルリアンタワー東急ホテル ,東京都渋谷区桜丘町26-1&lt;br&gt;&amp;#160;&amp;#160; &lt;br&gt;Grand Hyatt Tokyo, 6-10-3&amp;#160; Roppongi,Tel&amp;#58;+81 3 43331234&lt;br&gt;グランド ハイアット 東京 ,東京都港区六本木6-10-3&lt;br&gt;&amp;#160;&amp;#160; &lt;br&gt;Sheraton Miyako Tokyo Hotel, 1-50 Shirokanedai 1-Chome,Tel&amp;#58;+81 3 34473111&lt;br&gt;シェラトン都ホテル東京 ,東京都港区白金台1-1-50&lt;/div&gt;
+&lt;div&gt;The Westin Tokyo, 1-4-1 Mita,Tel&amp;#58;+81 3 54237000&lt;br&gt;ウェスティンホテル東京 ,東京都目黒区三田1-4-1恵比寿ガーデンプレイス内&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 0 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 03-5574-4777&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International #&amp;#58; +1 404 515 2246&lt;br&gt;&amp;#160;&lt;br&gt;Police Station&amp;#58; 110&lt;br&gt;Hospital (Ambulance)&amp;#58; 119&lt;br&gt;Fire Station&amp;#58; 119&lt;br&gt;Taxi Services&amp;#58; Please call hotel helpdesk&lt;/div&gt;
+&lt;div&gt;Airport&amp;#58;&lt;br&gt;- Narita Airport +81 0 47634 8000&lt;br&gt;- Haneda Airport +81 3 57578000 &lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">7</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-10T15:28:43</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T13:39:35</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">29</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(8)</id>
+    <title type="text">Malaysia</title>
+    <updated>2015-09-04T16:46:07-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(8)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(8)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(8)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(8)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(8)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Malaysia</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>MY</d:CountryISOCode>
+        <d:CountryDialInCode>60</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 001&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58;&amp;#160; 06 798 5052&lt;/li&gt;
+&lt;li&gt;Toll number&amp;#58;&amp;#160; 037 724 4318&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 1 800 815 926&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola Far East Limited&lt;br&gt;&lt;/strong&gt;PT486 Persiaran Teknologi 4, &lt;a href="mailto&amp;#58;techpark@enstek"&gt;techpark@enstek&lt;/a&gt;, 71760 Bandar Enstek, Negeri Sembilan, Darul Khusus&amp;#160;&amp;#160; Tel&amp;#58; +60 6 798 5100&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>2.7253254,101.7619946</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>Volume (M UC)&amp;#58;&amp;#160;60 (FY201)&lt;br&gt;KO Market Share&amp;#58; 13.6% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Sprite, Dasani, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58;&amp;#160;150 (FY20134)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Malaysia CBO 
+&lt;div&gt;&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;MALAYSIA&lt;/strong&gt;&lt;br&gt;Hilton Petaling Jaya Hotel, No 2 Jalan Barat, Petaling Jaya, Tel&amp;#58;+60 3 79559122&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Shangri-la Hotel Kuala Lumpur, 11 Jalan Sultan Ismail, Tel&amp;#58;+60 3 20322388&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Sheraton Imperial Kuala Lumpur Hotel, Jalan Sultan Ismail,Tel&amp;#58; +60 3 27179900&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The Westin Kuala Lumpur,199 Jalan Bukit Bintang,Tel&amp;#58; +60 3 27318333&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 6 798 5050&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International #&amp;#58; +1 404 515 2246&lt;br&gt;&amp;#160;&lt;br&gt;Police Station&amp;#58; 999&lt;br&gt;Hospital (Ambulance)&amp;#58; 999&lt;br&gt;Taxi Services&amp;#58; Please call hotel helpdesk&lt;br&gt;Airport&amp;#58; Kuala Lumpur International Airport +60 3-8777 8888&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">8</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-09-04T16:46:07</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T14:35:24</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">26</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(9)</id>
+    <title type="text">New Zealand</title>
+    <updated>2014-07-28T12:28:48-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(9)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(9)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(9)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(9)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(9)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>New Zealand</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>NZ</d:CountryISOCode>
+        <d:CountryDialInCode>64</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;&#xD;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 00&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;li&gt;Use Intercall &lt;/li&gt;&#xD;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Call local number below&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local number&amp;#58;&amp;#160; 09 929 1733&lt;/li&gt;&#xD;
+&lt;li&gt;Toll-Free&amp;#58; 080 045 2629 &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;strong&gt;Coca-Cola (Oceania) Ltd&lt;br&gt;&lt;/strong&gt;The Oasis, Mt Wellington Auckland, New Zealand&lt;br&gt;Tel&amp;#58;+64 9 5703000</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>-36.911296, 174.845316</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 49&lt;br&gt;KO Market Share&amp;#58; 47.8%&lt;br&gt;KO Top 3 Brands&amp;#58; Diet Coke, Schweppes, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58; 261.8&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / COCA-COLA AMATIL(NZ) LT&lt;/div&gt;&#xD;
+&lt;div&gt;Data&amp;#160;As&amp;#160;of 2013&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;NEW ZEALAND&lt;/strong&gt;&lt;/div&gt;&#xD;
+&lt;div&gt;Hilton Auckland, Princes Wharf 147 Quay St,Tel&amp;#58;+1 8884142018&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;The Sebel Suites Auckland, 85-89 Customs St West,Tel&amp;#58;+64 9 9784000&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 400518014&lt;/div&gt;&#xD;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;Police Station&amp;#58; 111&lt;br&gt;Hospital (Ambulance)&amp;#58; 111&lt;br&gt;Fire Station&amp;#58; 111&lt;br&gt;Airport &amp;#58; Auckland Airport +64 9 275 0789 or 0800 247 767&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">9</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2014-07-28T12:28:48</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T17:20:50</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">25</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(10)</id>
+    <title type="text">Singapore</title>
+    <updated>2015-02-25T12:39:35-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(10)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(10)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(10)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(10)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(10)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Singapore</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>SG</d:CountryISOCode>
+        <d:CountryDialInCode>65</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 001&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall &lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; 6 869 7827&lt;/li&gt;
+&lt;li&gt;Toll number&amp;#58;&amp;#160; 6 882 9751&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 0800 120 5833&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid. &lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;strong&gt;Coca-Cola Far East Limited&lt;br&gt;&lt;/strong&gt;3/F, 457 Jalan Ahmad Ibrahim, Singapore 639933&lt;br&gt;Tel&amp;#58; +65 68690886</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>1.335107,103.648866</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 35 (FY2014)&lt;br&gt;KO Market Share&amp;#58; 23.5% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Heaven &amp;amp; Earth, Dasani, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58; 150 (FY2014)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / COCA-COLA SINGAPORE BEV&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;SINGAPORE&lt;br&gt;&lt;/strong&gt;Holiday Inn Atrium Singapore, 317 Outram Rd,Tel&amp;#58; +65 67330188&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Shangri-La Hotel Singapore, 22 Orange Grove Road,Tel&amp;#58; +65 67343585&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Sheraton Towers Singapore Hotel, 39 Scotts Rd,Tel&amp;#58; +65 67376888&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Singapore Conrad Centennial, Two Temasek Blvd,Tel&amp;#58; +65 63348888&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;The St. Regis Singapore, 29 Tanglin Rd,Tel&amp;#58; +65 65066888&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;
+&lt;div&gt;- Local&amp;#58; 68697826&lt;/div&gt;
+&lt;div&gt;- Local KO office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International#&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 999&lt;/div&gt;
+&lt;div&gt;Hospital (Ambulance)&amp;#58; 995&lt;/div&gt;
+&lt;div&gt;Taxi Services&amp;#58; 6 552 1111&lt;/div&gt;
+&lt;div&gt;Airport&amp;#58; Singapore Changi Airport +65 6595 6868&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">10</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-25T12:39:35</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T17:32:12</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">32</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(11)</id>
+    <title type="text">South Korea</title>
+    <updated>2014-07-18T10:56:19-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(11)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(11)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(11)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(11)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(11)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>South Korea</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;p&gt;&amp;#160;&lt;/p&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>KR</d:CountryISOCode>
+        <d:CountryDialInCode>82</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;&#xD;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To make International Call&amp;#58; Dial 9&amp;#160; 001&amp;#160; &amp;lt;Country Code&amp;gt;&amp;#160; &amp;lt;Area Code&amp;gt;&amp;#160; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;li&gt;Use Intercall &lt;/li&gt;&#xD;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To International Call&amp;#58; Dial&amp;#160; +&amp;#160; &amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Call local number below&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local number&amp;#58; 02 6490 3636&lt;/li&gt;&#xD;
+&lt;li&gt;Toll-Free&amp;#58; 003 0813 2569&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola Korea Co. Ltd&lt;br&gt;&lt;/strong&gt;10/F Heungkuk Life Insurance Bldg, 68, Saemunan-ro, Jongnoku, Seoul, 110-786 Korea.&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;Tel&amp;#58;+82 2 32713143&lt;br&gt;110-786 서울시 종로구 새문안로 68 흥국생명빌딩 10층&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>37.569541,126.972218</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;p&gt;KO Volume (M UC)&amp;#58; 212 (FY2013)&lt;br&gt;KO Market Share&amp;#58; 20.1% (FY2013)&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola, Fanta, Minute Maid&lt;br&gt;KO Per Capita Consumption&amp;#58; 104 (FY2013)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Coca-Cola Beverage Co. Ltd&lt;/p&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;SEOUL&lt;/strong&gt;&lt;br&gt;Grand Hyatt Seoul, 322&amp;#160; Sowol-ro,Tel&amp;#58;+82 2 7971234&lt;br&gt;그랜드 하얏트 서울 ,140-738 서울 용산구 소월로 322&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;Millennium Seoul Hilton, 395 5-ga Namdaemun-ro Chung-gu,Tel&amp;#58; +1 8884142018&lt;br&gt;밀레니엄 서울 힐튼 ,100-676 서울 중구 남대문로5가 395&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;Sheraton Seoul D-Cube City Hotel, 360-51 Shindorim,Tel&amp;#58; +82 2 22112000&lt;br&gt;쉐라톤 서울 디큐브 시티 호텔 ,152-887 서울 구로구 경인로 662&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;The Westin Chosun, Seoul, 87, Sokong-Dong,Tel&amp;#58; +82 2 7710500&lt;br&gt;서울 웨스틴 조선 호텔 ,100-070 서울 중구 소공동 87&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;W Seoul Walkerhill, 175 Achaseong-Gil,Tel&amp;#58; +82 2 4652222&lt;br&gt;W 서울 워커힐 호텔 ,143-708 서울 광진구 워커힐로 177&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local KO Office&amp;#58; Ext 3142&amp;#160; (Office hour)&lt;/div&gt;&#xD;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International #&amp;#58; 001 1 404 515 2246&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;#160;&lt;/div&gt;&#xD;
+&lt;div&gt;Police Station&amp;#58; 112&lt;br&gt;Hospital (Ambulance)&amp;#58; 119&lt;br&gt;Fire Station&amp;#58; 119&lt;br&gt;Taxi Services&amp;#58; 2 888 2000&lt;br&gt;Airport&amp;#58; Incheon International Airport +82 1577 2600&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">11</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2014-07-18T10:56:19</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T17:42:41</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">26</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(12)</id>
+    <title type="text">Taiwan</title>
+    <updated>2015-06-17T15:42:45-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(12)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(12)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(12)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(12)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(12)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Taiwan</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>TW</d:CountryISOCode>
+        <d:CountryDialInCode>886</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 0 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9 &amp;#160;002 &amp;#160;&amp;lt;Country Code&amp;gt; &amp;#160;&amp;lt;Area Code&amp;gt; &amp;#160;&amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall&lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial &amp;#160;+ &amp;#160;&amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Toll-Free&amp;#58;&amp;#160;080 909 9279&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola China Limited Taiwan Branch&lt;/strong&gt;&lt;br&gt;13/F Room C, 89, Sung Jen Road, Taipei.&amp;#160;&amp;#160; Tel&amp;#58; +886 2 87809877 ext&amp;#58; 6696&lt;br&gt;台灣 台北市 信義區 松仁路89號 十三樓 C室&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>25.036974, 121.568746</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;p&gt;Volume (M UC)&amp;#58; 47.1 (FY2014)&lt;br&gt;KO Market Share&amp;#58; 6.8% (2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola, Sprite, Minute Maid (2014)&lt;br&gt;KO Per Capita Consumption&amp;#58; 48.3 (FY2014)&lt;/p&gt;
+&lt;p&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / SWIRE COCA-COLA TAIWAN&lt;/p&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;TAIPEI&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;LE MERIDIEN ,Taipei. 38 Songren Road, Xinyi District Taipei, 110 Taiwan, ROC. &amp;#160;Tel&amp;#58; +886 2 66228000&lt;/div&gt;
+&lt;div&gt;&lt;font face="SimSun"&gt;台北寒舍艾美酒店&lt;/font&gt;. &lt;font face="SimSun"&gt;台北市&lt;/font&gt; &lt;font face="SimSun"&gt;信義區&lt;/font&gt; &lt;font face="SimSun"&gt;松仁路&lt;/font&gt;38&lt;font face="SimSun"&gt;號&lt;/font&gt;.&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;W Taipei, 10 Zhongxiao East Road Sec. 5, Xinyi District • Taipei, 110, Taiwan . &amp;#160;&amp;#160;Tel&amp;#58; +886 2 77038888&lt;/div&gt;
+&lt;div&gt;&lt;font face="SimSun"&gt;台北&lt;/font&gt;W&lt;font face="SimSun"&gt;飯店&lt;/font&gt; &lt;font face="SimSun"&gt;台北市&lt;/font&gt; &lt;font face="SimSun"&gt;信義區&lt;/font&gt; &lt;font face="SimSun"&gt;忠孝東路&lt;/font&gt;5&lt;font face="SimSun"&gt;段&lt;/font&gt;10&lt;font face="SimSun"&gt;號&lt;/font&gt;.&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Grand Hyatt Taipei, 2, SongShou Road, Taipei, Taiwan 11051, Tel&amp;#58; +886 2 27201234&lt;/div&gt;
+&lt;div&gt;&lt;font face="SimSun"&gt;君悅大飯店台灣台北市松壽路&lt;/font&gt;2&lt;font face="SimSun"&gt;號&lt;/font&gt; 11051&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The Westin Taipei, 133 Nanjing East Rd. Sec.3, Taipei, Taiwan 10487, Tel&amp;#58; +886 2 87706565&lt;/div&gt;
+&lt;div&gt;&lt;font face="SimSun"&gt;台北威斯汀六福皇宮&lt;/font&gt; 10487&lt;font face="SimSun"&gt;台灣台北市南京東路三段&lt;/font&gt;133&lt;font face="SimSun"&gt;號&lt;/font&gt;&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line) &lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;/div&gt;
+&lt;div&gt;- TFN&amp;#58; 00801127567&lt;/div&gt;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police&amp;#58; 110&lt;/div&gt;
+&lt;div&gt;Medical&amp;#58; 119&lt;/div&gt;
+&lt;div&gt;Fire Station&amp;#58; 119&lt;/div&gt;
+&lt;div&gt;Taxi Service&amp;#58; 0080-055850&lt;/div&gt;
+&lt;div&gt;Airport&amp;#58; Taiwan Taoyuan International Airport +886 3 398 3728&lt;/div&gt;
+&lt;div&gt;Emergency number&amp;#58; 112&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">12</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-06-17T15:42:45</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T18:16:06</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">31</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(13)</id>
+    <title type="text">Thailand</title>
+    <updated>2015-03-11T18:04:08-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(13)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(13)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(13)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(13)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(13)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Thailand</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>TH</d:CountryISOCode>
+        <d:CountryDialInCode>66</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 0 or 9&amp;#160;&amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call or mobile Call&amp;#58; Dial 0 or 9 &amp;lt;destination number&amp;gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall&lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial &amp;#160;+ &amp;#160;&amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;
+&lt;li&gt;From outside KO Office&amp;#58; 02 835 1666&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 1 800 658 168&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;strong&gt;Coca-Cola Southeast Asia Pacific Services Co., Ltd.&lt;br&gt;&lt;/strong&gt;2nd-4th Floor, Thai Nam Thip Building (North Park Project), 214 Vibhavadi Rangsit Road, Khet Laksi, Bangkok 10210&lt;br&gt;ชั้น 2-4, อาคารไทยน้ำทิพย์ (โครงการ North Park ), 214 ถนนวิภาวดีรังสิต แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพฯ&amp;#160; Tel&amp;#58; +66 2 8351000</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>13.874882,100.567389</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>Volume (M UC)&amp;#58; 361 (FY2014)&lt;br&gt;KO Market Share&amp;#58; 19.1% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola ,Fanta ,Namthip&lt;br&gt;KO Per Capita Consumption&amp;#58; 129 (FY2014)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 2 / ThaiNamthip Ltd, Haad Thip Public Co.ltd</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;BANGKOK&lt;br&gt;&lt;/strong&gt;Aloft Bangkok-Sukhumvit 11, Sukhumvit Soi 11.&amp;#160; Tel&amp;#58; +66 2 2077000&lt;br&gt;อลอฟท์ กรุงเทพ - สุขุมวิท 11&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Conrad Bangkok, 87 Wireless Rd Phatumwan.&amp;#160; Tel&amp;#58; +66 2 6909999&lt;br&gt;โรงแรมคอนราด กรุงเทพ&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Dusit Thani, Bangkok, 946 Rama 4 Rd,Tel&amp;#58; +66 2 2009000&lt;br&gt;โรงแรมดุสิตธานี กรุงเทพ,946 ถ. พระราม 4&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;InterContinental Bangkok, 973 PLOENCHIT ROAD, BANGKOK, 10330 THAILAND Tel&amp;#58; +66 2 656 0444&lt;br&gt;โรงแรมอินเตอร์คอนติเนนตัล กรุงเทพ 973 ถนนเพลินจิต กรุงเทพ 10330&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Plaza Athenee Bangkok, A Royal Meridien Hotel, 61 Wireless Rd,Tel&amp;#58; +66 2 6508800&lt;br&gt;โรงแรมพลาซ่าแอทธินี แบงคอค, อะ รอยัล เมอริเดียน&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Shangri-La Hotel, Bangkok, 89 Soi Wat Suan Plu, New Rd.&amp;#160; Tel&amp;#58; +66 2 2367777&lt;br&gt;แชงกริ-ลา โฮเต็ล, แบงคอค ,89 ซอยวัดสวนพลู ถ.เจริญกรุง&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Sheraton Grande Sukhumvit, Bangkok, 250 Sukhumvit Rd,Tel&amp;#58; +66 2 6498888&lt;br&gt;โรงแรมเชอราตัน แกรนด์ สุขุมวิท&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The St. Regis Bangkok, 155 Rajadamri Road.&amp;#160; Tel&amp;#58; +66 2 2077777&lt;br&gt;เดอะ เซนต์ รีจิส กรุงเทพฯ&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;The Westin Grande Sukhumvit Bangkok, 259 Sukhumvit Rd. Tel&amp;#58; +66 2 2078000&lt;br&gt;โรงแรมเดอะ เวสทินแกรนด์สุขุมวิท&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 0 or 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 02 835 1333&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- Toll Free&amp;#58; 0018001562030780&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 110&lt;br&gt;Hospital (Bumrungrad)&amp;#58; 1691&lt;br&gt;Fire Station&amp;#58; 199&lt;br&gt;Taxi Services&amp;#58; Please call hotel helpdesk&lt;br&gt;Airport&amp;#58; Suvarnabhumi Airport +66 2 132 1888&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">13</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-03-11T18:04:08</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T18:20:36</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">32</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(14)</id>
+    <title type="text">USA</title>
+    <updated>2014-06-20T22:33:58-07:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(14)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(14)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(14)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(14)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(14)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>USA</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>North America</d:RegionValue>
+        <d:CountryISOCode>US</d:CountryISOCode>
+        <d:CountryDialInCode>1</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;&#xD;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To make International Call&amp;#58; Dial 9 &amp;#160;001 &amp;#160;&amp;lt;Country Code&amp;gt; &amp;#160;&amp;lt;Area Code&amp;gt; &amp;#160;&amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;li&gt;Use Intercall&lt;/li&gt;&#xD;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&#xD;
+&lt;li&gt;To International Call&amp;#58; Dial &amp;#160;+ &amp;#160;&amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;&#xD;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Call local number below&lt;/li&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;&#xD;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Local number&amp;#58; 404 381 8527&lt;/li&gt;&#xD;
+&lt;li&gt;Toll-Free&amp;#58; 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#xD;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;The Coca-Cola Company&lt;br&gt;&lt;/strong&gt;1 Coca-Cola Plaza NW, Atlanta, GA 30313&lt;br&gt;Tel&amp;#58;+1 (404) 676 2121&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>33.770943,-84.397316</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>&lt;div&gt;Volume (M UC)&amp;#58; 5,403&lt;br&gt;KO Market Share&amp;#58; 42%&lt;br&gt;KO Top 3 Brands&amp;#58; Coca-Cola, Diet Coke, Sprite&lt;br&gt;KO Per Capita Consumption&amp;#58; 410.9&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 82 / CCR, CCR Food Service, The Minute Maid Company&lt;/div&gt;</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;ATLANTA&lt;br&gt;&lt;/strong&gt;The Westin Peachtree Plaza, Atlanta,&amp;#160;&amp;#160; 210 Peachtree St, Atlanta, GA 30303-1745, United States&amp;#160;&amp;#160; Tel.&amp;#58; +1 (404) 659 1400&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Sheraton Atlanta Hotel,&amp;#160;&amp;#160; 165 Courtland St Northeast, Atlanta, GA 30303, United States&amp;#160;&amp;#160; Tel.&amp;#58; +1 (404) 659 6500&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Embassy Suites Atlanta - At Centennial Olympic Park,&amp;#160;&amp;#160; 267 Marietta St, Atlanta, GA 30313, United States&amp;#160;&amp;#160; Tel.&amp;#58; +1 (404) 223 2300 &lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;W Atlanta Downtown Hotel &amp;amp; Residences,&amp;#160;&amp;#160; 45 Ivan Allen Jr. Boulevard, Atlanta, GA 30308, United States&amp;#160;&amp;#160; Tel.&amp;#58; +1 (404) 582-5800&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;br&gt;&lt;br&gt;KO IT Service desk number&amp;#58; &lt;/div&gt;&#xD;
+&lt;div&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;/div&gt;&#xD;
+&lt;div&gt;- International #&amp;#58; +1 404 515 2246&lt;/div&gt;&#xD;
+&lt;div&gt;&lt;br&gt;Police Station&amp;#58; 911&lt;br&gt;Hospital (Bumrungrad)&amp;#58; 911&lt;br&gt;Fire Station&amp;#58; 911&lt;br&gt;Airport&amp;#58; Hartsfield–Jackson Atlanta International Airport 800 897-1910&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">14</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2014-06-20T22:33:58</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T18:30:09</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">21</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://cocacola.sharepoint.com/sites/TravelFAQ/_vti_bin/ListData.svc/TravelFAQData(15)</id>
+    <title type="text">Vietnam</title>
+    <updated>2015-02-25T12:43:27-08:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelFAQDataItem" href="TravelFAQData(15)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Region" type="application/atom+xml;type=entry" title="Region" href="TravelFAQData(15)/Region" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TravelFAQData(15)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TravelFAQData(15)/ModifiedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Attachments" type="application/atom+xml;type=feed" title="Attachments" href="TravelFAQData(15)/Attachments" />
+    <category term="Microsoft.SharePoint.DataService.TravelFAQDataItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ContentTypeID>0x01008A9D49B512FD094393427CCF75F419EB</d:ContentTypeID>
+        <d:CountryName>Vietnam</d:CountryName>
+        <d:OfficeLocation2>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation2>
+        <d:OfficeLoc2Coordinates m:null="true" />
+        <d:OfficeLocation3>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation3>
+        <d:OfficeLoc3Coordinates m:null="true" />
+        <d:OfficeLocation4>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation4>
+        <d:OfficeLoc4Coordinates m:null="true" />
+        <d:OfficeLocation5>&lt;div&gt;&lt;/div&gt;</d:OfficeLocation5>
+        <d:OfficeLoc5Coordinates m:null="true" />
+        <d:Active m:type="Edm.Boolean">true</d:Active>
+        <d:RegionValue>Asia Pacific</d:RegionValue>
+        <d:CountryISOCode>VN</d:CountryISOCode>
+        <d:CountryDialInCode>84</d:CountryDialInCode>
+        <d:VoiceCall>&lt;ol&gt;
+&lt;li&gt;Use Lync or Skype for Voice/Video Call (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;li&gt;Use a landline and dial the local/toll number for the best rate.&lt;/li&gt;
+&lt;li&gt;Use local Office deskphone&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To make local call&amp;#58; Dial 9 &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To make International Call&amp;#58; Dial 9 &amp;#160;00 &amp;#160;&amp;lt;Country Code&amp;gt; &amp;#160;&amp;lt;Area Code&amp;gt; &amp;#160;&amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;Use Intercall&lt;/li&gt;
+&lt;li&gt;Use your mobile Phone (Roaming mobile cost is most expensive)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;To local call&amp;#58; Dial &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;
+&lt;li&gt;To International Call&amp;#58; Dial &amp;#160;+ &amp;#160;&amp;lt;Country Code&amp;gt; &amp;lt;Area Code&amp;gt; &amp;lt;phone number&amp;gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;</d:VoiceCall>
+        <d:InterCall>&lt;ol&gt;
+&lt;li&gt;Use Skype to access the US toll free number&amp;#160; (Call quality will be dependent on the local network)&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Within Skype select United States country code, 877 906 9811&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Call local number below&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Local KO Office Speed Dial&amp;#58; 3333&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;br&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Local number&amp;#58; 3520 6782&lt;/li&gt;
+&lt;li&gt;Toll-Free&amp;#58; 1800 9209&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;
+&lt;li&gt;Mobile Roaming cost is most expensive. Please try to avoid.&lt;/li&gt;&lt;/ol&gt;</d:InterCall>
+        <d:OfficeLocation1>&lt;div&gt;&lt;strong&gt;Coca-Cola Southeast Asia Pacific, Inc.,&lt;/strong&gt;&lt;br&gt;The Metropolitan, Level 10, 235 Dong Khoi Street, District. 1, HCM City.&amp;#160;&amp;#160;&amp;#160; Tel&amp;#58; +84 8 35206700&lt;br&gt;10, 235 Đồng Khởi, Quận. 1, Thành phố Hồ Chí Minh&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;</d:OfficeLocation1>
+        <d:OfficeLoc1Coordinates>10.778879,106.69993</d:OfficeLoc1Coordinates>
+        <d:KOMetricsFacts>Volume (M UC)&amp;#58;&amp;#160;76 (FY2014)&lt;br&gt;KO Market Share&amp;#58; KO 11.6% (FY2014)&lt;br&gt;KO Top 3 Brands&amp;#58; Nutri-Boost,&amp;#160;Fanta, Coca-Cola&lt;br&gt;KO Per Capita Consumption&amp;#58;&amp;#160;20 (FY2014)&lt;br&gt;# of Bottlers and Name of Top 3 Bottlers&amp;#58; 1 / Coca-Cola Beverage Viet</d:KOMetricsFacts>
+        <d:PreferredHotel>&lt;div&gt;&lt;strong&gt;VIETNAM&lt;br&gt;&lt;/strong&gt;Intercontinental Asia Pacificna Saigon, Crn Hai Ba Trung St And Le Duan Blvd.&amp;#160; Tel&amp;#58; +84 8 35209999&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Park Hyatt Saigon, 2 Lam Son Square.&amp;#160; Tel&amp;#58;+84 8 38241234&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;Sheraton Saigon Hotel And Towers, 88 Dong Khoi St.&amp;#160; Tel&amp;#58; +84 8 38272828&lt;/div&gt;</d:PreferredHotel>
+        <d:UsefulInfo>&lt;div&gt;(Press outside line first. If in KO office, press 9 for outside line. If in hotel, please check with hotel for outside line)&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;KO IT Service desk number&amp;#58;&lt;br&gt;- Local&amp;#58; 3520 6780&lt;br&gt;- Local KO Office Speed Dial&amp;#58; 2222&lt;br&gt;- International# +1 404 515 2246&lt;/div&gt;
+&lt;div&gt;&amp;#160;&lt;/div&gt;
+&lt;div&gt;Police Station&amp;#58; 113&lt;br&gt;Hospital (urgent case)&amp;#58; 114&lt;br&gt;Taxi Services&amp;#58; 3827 2727&lt;br&gt;Airport&amp;#58; Tan Son Nhat Airport +84 8 3848 5383&lt;/div&gt;</d:UsefulInfo>
+        <d:Id m:type="Edm.Int32">15</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2015-02-25T12:43:27</d:Modified>
+        <d:Created m:type="Edm.DateTime">2014-06-11T19:13:07</d:Created>
+        <d:CreatedById m:type="Edm.Int32">21</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">32</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">1</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TravelFAQ/Lists/Travel FAQ Data</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

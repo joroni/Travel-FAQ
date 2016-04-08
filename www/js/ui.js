@@ -70,6 +70,7 @@ appUI.setupDetailsHolder = function() {
 			html+= '<div class="detail-header"><img src="images/icons/' + config.detailLabels[i].icon + '" class="detail-icon">' + config.detailLabels[i].text + '</div>';
 			html+='</li>';
 			
+			
 			html+='<li>';
 			html+='<p class="detail-item" id="' + config.detailLabels[i].id + '"></p>';
 			html+='</li>';
@@ -90,6 +91,7 @@ appUI.setupDetailsHolder = function() {
 	d.html(html);
 	d.trigger('create');
 }
+//alert(icon);
 
 appUI.leftHeaderButtonClick = function() {
 	if (appUI.isLandscape() && config.tabletMode) {
@@ -148,6 +150,12 @@ appUI.switchToPortrait = function() {
 	appUI.resizeContent();
 	appUI.resizeCountryList();		
 }
+
+
+
+
+ 
+
 
 appUI.resizeCountryList = function() {
 	
@@ -213,7 +221,7 @@ appUI.initiateDataUpdate = function() {
 			function(data) { //finish callback
 				localStore.updateData(data, 
 					function() {					
-						$("#updateText").html("Downloading country icons...");	
+						$("#updateText").html("Downloading updates. Please wait...");	
 						appUI.downloadFlags(function() {
 							var currentCode = $("#currentCountry").data("country-code");
 							if (currentCode) {
@@ -336,6 +344,16 @@ appUI.closeMenu = function() {
 	$("#optionsPanel").panel("close");
 }
 
+/*
+$.get('sidemenu.html')
+ .success(function(data) {
+     $('#listPanel').html(data);
+ });*/
+ 
+ 
+
+
+
 appUI.populateCountriesAll = function() {
 	localStore.getData("SELECT *", null, null, function(localData) {			
 		if (localData.length>0) {
@@ -343,6 +361,9 @@ appUI.populateCountriesAll = function() {
 			var list = $("#allCountries");
 			list.empty();
 			for (i=0; i<len; i++) {
+				
+				
+				
 				var code = localData[i].code;
 				var name = localData[i].name;
 				var li = document.createElement("li");
@@ -351,6 +372,9 @@ appUI.populateCountriesAll = function() {
 				var icon = document.createElement("img");
 				icon.style.width = "30px";
 				icon.style.height = "30px";
+				
+				
+				
 				
 				var iconPath = config.fileSystemRootFolder + '/' + config.localImageFolderPath + '/' + code.toLowerCase() + ".png?" + Math.random();				
 				if (!localFileExists(iconPath)) {
@@ -372,16 +396,29 @@ appUI.populateCountriesAll = function() {
 					appUI.populateCountryDetails(this.country,true);
 				}});
 				
+				
 				$(li).attr('region', localData[i].region);
+				
 				li.appendChild(a);
+				
 				list.append(li);
+				
+				
+				
 
 			}
+			
+		
+
 						
 			list.listview({
 				autodividersSelector: function(li) {
+					
 					return $(li).attr('region');
+					//$('.ui-listview .ui-li-divider').prepend(ic);
+					
 				}
+				
 			});						
 			
 			appUI.clearCountryFilter();
@@ -427,6 +464,8 @@ appUI.populateCountryDetails = function(countryCode) {
 
 			var imgPath = config.fileSystemRootFolder + '/' + config.localImageFolderPath + '/' + countryCode.toLowerCase() + ".png?" + Math.random();
 			
+			
+		//	alert(imgPath);
 			if (!localFileExists(imgPath)) {				
 				imgPath = config.defaultIconPath;
 			} 

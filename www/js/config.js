@@ -23,7 +23,7 @@ config.checkTabletMode = function() {
 }
 
 config.appTitle = "Travel FAQ";
-config.appInternalVersion = "1.1a";
+config.appInternalVersion = "2.0";
 config.tabletMode = config.checkTabletMode();//config.getDeviceType();
 config.defaultCountryCode = 'CN';
 config.updateAvailableMessage = 'New version of data is available for download.\n\nKindly sync with server to get the latest Travel FAQ data.';
@@ -36,7 +36,8 @@ config.localDBVersion = "1.0";
 config.localDBCountryTable = 'country_detail';
 
 //config.remoteServerAddress = "http://icokecontent.chinacloudapp.cn/store/travelfaq/";
-config.remoteServerAddress = "http://northfitnesshub.com/koproj/travelko/";
+//config.remoteServerAddress = "http://northfitnesshub.com/koproj/travelko/";
+config.remoteServerAddress ="https://partner.coca-cola.com/sites/TravelFAQ/_vti_bin/ListData.svc/";
 config.remoteDataFileName = "TravelFAQData.xml";
 config.remoteDataFlagsFolder = "flags";
 config.remoteConnectTimeout = 5000;

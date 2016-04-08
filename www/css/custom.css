@@ -14,6 +14,112 @@
 @charset "utf-8";
 /* CSS Document */
 
+.hidden {
+	display:none;
+}
+
+.inlineIcon {
+
+    display: inline-block;
+
+    position: relative;
+	
+	float:left;
+
+    vertical-align: middle;
+
+    margin-right: 6px;
+
+}
+
+.ui-bar-a, .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit {
+    background-color: #ef1821 !important;
+    border-color: #dddddd;
+    color: #333333;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #eeeeee;
+}
+
+.ui-header .ui-title, .ui-footer .ui-title {
+  
+    margin: 0 auto !important;
+	font-weight:700;
+   
+}
+
+#footer {
+	position:relative;
+	bottom:0px;
+	width:100%;
+	max-height:50px;
+	padding:10px 0;
+	
+}
+
+.footer-text {
+	
+}
+
+/*.list-divider, .ui-li-divider {
+	background-color:transparent !important;
+}
+*/
+
+#main {
+    display: block;
+    position: relative;
+}
+.ui-listview > li {
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.ui-header-fixed {
+    padding-top: 10px !important;
+    top: 0px;
+	position:fixed;
+}
+
+.head-nav-buttons {
+	position:fixed;
+	top:20p !important;
+	margin-top:20px !important;
+	border:none;
+}
+
+#navbar {
+	position:fixed;
+	top:-10px;
+}
+
+.ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html head + body .ui-btn.ui-btn-a, .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html head + body .ui-btn.ui-btn-a:visited {
+
+    border-color: rgba(255,255,255,0.2);;
+  
+}
+
+
+
+/**************/
+.ui-listview > .ui-li-divider {
+    padding-left: 0.5em;
+	background-color:rgba(239,24,33,1) !important;
+	color:#eee;
+	font-size:1.2em;
+	text-shadow:0  1px  0  #333; 
+}
+.inlineIcon {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+/**************/
+
+.ui-collapsible-content {
+   	margin: 0;
+    padding: 0;
+}
+
 .page-header {
 	background-image:url("../images/logo.png");
 	background-position: center;
@@ -22,6 +128,25 @@
 	margin-top:2px;
 }
 
+
+.app-nav {
+    position: fixed;
+    top: 18px;
+    width: 100%;
+}
+.img-circle {
+	border-radius: 50%;
+	height: 30px;
+    width: 21px;
+	border:0px solid;
+	margin-right:10px;
+ }
+
+img.app-logo {
+	max-width:100%;
+	height:40px;
+}
+   
 .detail-icon {
 	vertical-align:middle;
 	width:30px;
@@ -31,6 +156,11 @@
 
 .ui-panel-inner {
 	padding:0 !important;
+}
+
+.ui-collapsible-content {
+    border: 0px solid;
+    padding: 2px 0.5em;
 }
 
 .options-panel {
@@ -44,7 +174,7 @@
 
 .footer-text {
 	font-size:8pt;
-	font-weight:bold;
+	font-weight:100;
 	text-align:center;
 }
 
@@ -74,6 +204,12 @@
 	color:#1F1D1D;	
 }
 
+
+.ui-bar-b, .ui-page-theme-b .ui-bar-inherit, html .ui-bar-b .ui-bar-inherit, html .ui-body-b .ui-bar-inherit, html body .ui-group-theme-b .ui-bar-inherit {
+    background-color: rgba(244, 0, 9, 1);
+   
+}
+
 .country-detail-header-name {
 	margin-left:10px;
 	font-size:13pt;
@@ -91,7 +227,16 @@
 .content-area {
 	background-image:url(../images/background.png); 
 	padding:0px;
+	background-position:center;
+	background-size:cover;
 	border: none;
+}
+
+.ui-bar-b, .ui-page-theme-b .ui-bar-inherit, html .ui-bar-b .ui-bar-inherit, html .ui-body-b .ui-bar-inherit, html body .ui-group-theme-b .ui-bar-inherit {
+    color: #ffffff;
+    font-weight: 100 !important;
+    text-shadow: none;
+    text-transform: uppercase;
 }
 
 .content-table {
@@ -181,4 +326,42 @@ a {
 
 ::-webkit-scrollbar {
     display:none;
+}
+
+
+/************* CUSTOM ********/
+
+ul.jqm-list li {
+	list-style-type:none;
+	margin:0px;
+	
+}
+
+/*ul.jqm-list {
+	margin-left: -40px;
+}*/
+/*
+ul.jqm-list ul{
+    margin-left: -40px;
+}*/
+
+i.flag-holder {
+	padding-right: 10px;
+	float:left;
+}
+
+.ui-content .ui-listview, .ui-panel-inner > .ui-listview {
+    margin: 0;
+}
+
+
+html, body {
+	font-family:"Open Sans", sans-serif;
+	font-weight:100px !important;
+}
+
+.ui-page-theme-a a, html .ui-bar-a a, html .ui-body-a a, html body .ui-group-theme-a a {
+    color: #333;
+    font-weight: 100 !important;
+    margin-left: 10px;
 }
