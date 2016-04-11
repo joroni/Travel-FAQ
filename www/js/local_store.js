@@ -1,16 +1,15 @@
 /**
-* Author,email :     Aldrin Rasdas , arasdas@coca-cola.com
-* Date Create  :     April, 2014
-* Description  :     Contains methods/functions that deal mainly with local data
-*
-* REVISION HISTORY
-*
-* Author,email :
-* Date Revised :
-* Description  :
-*
-**/
-
+ * Author,email :     Aldrin Rasdas , arasdas@coca-cola.com
+ * Date Create  :     April, 2014
+ * Description  :     Contains methods/functions that deal mainly remote data
+ *
+ * REVISION HISTORY
+ *
+ * Author,email :	Raymund Niconi , niconi@coca-cola.com
+ * Date Revised :	April, 2016
+ * Description  :	Contains methods/functions that deal mainly remote data, UI enhancements and transitions
+ *
+ **/
 var localStore = new Object();
 
 localStore.dataVersionKey = config.localDBVersionKey;

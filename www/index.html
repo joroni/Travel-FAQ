@@ -73,7 +73,7 @@
 					<div class="ui-block-b detail-area-container" id="contentHolder">
 						<!-- details area -->    
 						<div class="ui-grid-b ui-bar country-detail-header" id="selected_country_header">
-							<div class="ui-block-a" style="width:45px;">
+							<div class="ui-block-a" style="width:20%;">
 								<div class="country-icon" id="country_flag"></div>
 							</div>
 							<div class="ui-block-b" style="width:80%">
@@ -104,7 +104,7 @@
 				</div>
 			</div>
 			<!-- options panel -->
-			<div data-role="panel" id="optionsPanel" data-position="right" data-display="overlay" data-dismissible="true" class="jqm-navmenu-panel options-panel ui-panel ui-panel-position-right ui-panel-display-overlay" data-position-fixed="true">
+			<div data-role="panel" id="optionsPanel" data-position="right" data-display="overlay" data-dismissible="true" class="jqm-navmenu-panel options-panel ui-panel ui-panel-position-right ui-panel-display-overlay options-panel" data-position-fixed="true">
 				<div data-role="header" data-theme="b">
 					<h4>Options</h4>
 					<a class="nav-icon" href="#optionsPanel" data-icon="arrow-r" data-iconpos="notext" style="display:none;">Options</a>
@@ -122,61 +122,40 @@
             
 			<!-- list panel LEFT SIDE BAR old -->
 			<div data-role="panel" id="listPanel" data-position="left" data-display="overlay" data-dismissible="true" class="options-panel" data-position-fixed="true">
-				<div data-role="header" data-theme="b">
-					<a class="nav-icon" href="#listPanel" data-icon="arrow-l" data-iconpos="notext">Close</a>
-					<a class="nav-icon" href="#" onclick="appUI.gotoCurrentLocation();" data-icon="location" data-iconpos="notext">Current Location</a>
-					<h4>Regions</h4>
-				</div>
+				<!--<div data-role="header" data-theme="b">
+                <h4>Regions</h4>
+                </div>
+                <div data-role="navbar">
+					<a class="nav-icon" id="icon-closePanel" href="#listPanel" data-icon="arrow-l" data-position="left"  data-iconpos="notext" >Close</a>
+					<a class="nav-icon" id="icon-getLocation" data-position="right" href="#" onclick="appUI.gotoCurrentLocation();" data-icon="location" data-iconpos="notext">Current Location</a>
+					
+				</div>-->
+                <div data-role="header" data-theme="b" style="overflow:hidden;">
+<h4>Regions</h4>
+    <!--<a href="#" data-icon="gear" class="ui-btn-right">Options</a>-->
+    <div data-role="navbar">
+        <ul>
+            <li><a class="nav-icon ui-btn ui-corner-all ui-icon-carat-l ui-btn-icon-notext ui-btn-inline" id="icon-closePanel" href="#listPanel" data-icon="carat-l" data-position="left" data-theme="b"  data-iconpos="notext">Close</a></li>
+          
+            <li><a class="nav-icon ui-btn  ui-corner-all ui-icon-location ui-btn-icon-notext ui-btn-inline" id="icon-getLocation" data-position="right" href="#" onclick="appUI.gotoCurrentLocation();" data-icon="location" data-theme="b" data-iconpos="notext">Current Location</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div><!-- /header -->
 				<div id="listFilter" style="display:none;padding:0px;margin:0px;"></div>
-				<div class="country-list-holder-portrait" id="listContainer">
-					<ul data-role="listview" data-autodividers="true"  data-filter="true" data-inset="false" id="allCountries" style="padding-top:0px;margin-right:5px;">
+				<div class="country-list-holder-portrait"  id="listContainer">
+					<ul data-role="listview" data-autodividers="true"  data-filter="true" data-inset="false" id="allCountries" style="padding-bottom:20px;margin-right:0px;">
 					</ul>
+                    
 				</div>
+                <div data-role="footer" data-position="fixed" data-theme="b" id="footer" data-tap-toggle="false">
 			</div>
 			<!--  <div data-role="panel" id="listPanel" data-position="left" data-display="overlay" data-dismissible="true" class="options-panel" data-position-fixed="true">
 				</div>  --> 
 			<!-- list panel LEFT SIDE BAR NEW-->
-			<!-- options panel -->
-			<!--<div data-role="panel" id="listPanel" data-position="left" data-display="overlay" data-dismissible="true" class="jqm-navmenu-panel options-panel ui-panel ui-panel-position-left ui-panel-display-overlay" data-position-fixed="true">
-				<div data-role="header" data-theme="b">            	
-					             
-				
-					<a class="nav-icon" data-icon="arrow-l"  href="#listPanel" data-iconpos="notext">Close</a>
-					<a class="nav-icon" href="#" data-icon="location"  onclick="appUI.gotoCurrentLocation();" data-icon="location" data-iconpos="notext">Current Location</a>
-				                
-				              <h4>Regions</h4>   
-				</div>
-				<div data-role="content" class="ui-panel-inner country-list-holder-portrait" id="listContainer">
-				<ul data-role="listview" id="popupMenuItems">
-				         
-						<li data-role="collapsible" data-enhanced="true" data-collapsed-icon="carat-d" data-expanded-icon="carat-u" data-iconpos="right" data-inset="false" class="ui-collapsible ui-collapsible-themed-content ui-collapsible-collapsed">
-				<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">
-				<a href="#" id="RegionNode" class="ui-collapsible-heading-toggle ui-btn ui-btn-icon-right ui-btn-inherit ui-icon-carat-d">
-				---Asia Pacific<span class="ui-collapsible-heading-status"> click to expand contents</span>
-				</a>
-				</h3>
-				<div class="ui-collapsible-content ui-body-inherit ui-collapsible-content-collapsed" aria-hidden="true">
-				<ul id="allCountries" class="ui-listview">
-				
-				<li data-filtertext="collapsibles content formatting"><a href="demos/collapsible" data-ajax="false"><i class="flag-holder img-circle" style="background: rgba(0, 0, 0, 0) url('images/icons/flags/AU.png') no-repeat scroll -2px center;"></i>Australia</a></li>
-				      
-				</ul>
-				</div>
-				</li>
-				</ul>
-				</div>
-				</li>
-					</ul>-->
 			
-			<!--    <div id="listFilter" style="display:none;padding:0px;margin:0px;"></div>
-				<div class="country-list-holder-portrait" id="listContainer">
-					<ul data-role="listview" data-autodividers="true"  data-filter="true" data-inset="false" id="allCountries" style="padding-top:0px;margin-right:5px;">
-					</ul>            
-				
-				            
-				            
-				            
-				            </div> -->
+			
+			
+			
 		</div>
 		</div>      
 		<div data-role="footer" data-position="fixed" data-theme="b" id="footer" data-tap-toggle="false">

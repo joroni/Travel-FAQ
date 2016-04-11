@@ -1,15 +1,15 @@
 /**
-* Author,email :     Aldrin Rasdas , arasdas@coca-cola.com
-* Date Create  :     April, 2014
-* Description  :     Contains config values (or some variables that set and read by othe JS files
-*
-* REVISION HISTORY
-*
-* Author,email :
-* Date Revised :
-* Description  :
-*
-**/
+ * Author,email :     Aldrin Rasdas , arasdas@coca-cola.com
+ * Date Create  :     April, 2014
+ * Description  :     Contains methods/functions that deal mainly remote data
+ *
+ * REVISION HISTORY
+ *
+ * Author,email :	Raymund Niconi , niconi@coca-cola.com
+ * Date Revised :	April, 2016
+ * Description  :	Contains methods/functions that deal mainly remote data, UI enhancements and transitions
+ *
+ **/
 
 var config = new Object();
 
@@ -24,7 +24,8 @@ config.checkTabletMode = function() {
 
 config.appTitle = "Travel FAQ";
 config.appInternalVersion = "2.0";
-config.tabletMode = config.checkTabletMode();//config.getDeviceType();
+config.tabletMode = config.checkTabletMode();
+//config.getDeviceType();
 config.defaultCountryCode = 'CN';
 config.updateAvailableMessage = 'New version of data is available for download.\n\nKindly sync with server to get the latest Travel FAQ data.';
 
@@ -35,8 +36,8 @@ config.localDBSize = 50 * 1024 * 1024;
 config.localDBVersion = "1.0";
 config.localDBCountryTable = 'country_detail';
 
-//config.remoteServerAddress = "http://icokecontent.chinacloudapp.cn/store/travelfaq/";
-//config.remoteServerAddress = "http://northfitnesshub.com/koproj/travelko/";
+/* config.remoteServerAddress = "http://icokecontent.chinacloudapp.cn/store/travelfaq/";
+config.remoteServerAddress = "http://northfitnesshub.com/koproj/travelko/"; */
 config.remoteServerAddress ="https://partner.coca-cola.com/sites/TravelFAQ/_vti_bin/ListData.svc/";
 config.remoteDataFileName = "TravelFAQData.xml";
 config.remoteDataFlagsFolder = "flags";
@@ -51,11 +52,14 @@ config.nominatimApiURL = 'https://nominatim.openstreetmap.org/reverse?format=jso
 config.mapCoords1Key = '<latlng_1>';
 config.mapCoords2Key = '<latlng_2>';
 
+//config.defaultIconPath = 'images/icons/default.png';
 config.defaultIconPath = 'images/icons/default.png';
-config.localImageFolderPath = 'flags';
+//config.localImageFolderPath = 'flags';
+config.localImageFolderPath = 'images/icons/flags';
 config.fileSystemRootFolder = '';
 
 config.detailLabels = [
+	
 	{text:"Voice Call",icon:"voice.png",id:"voicecall"},
 	{text:"InterCall",icon:"intercall.png",id:"intercall"},
 	{text:"Office Location",icon:"office.png",id:"officeloc"},
@@ -65,6 +69,6 @@ config.detailLabels = [
 ];
 	
 	
-config.fixCountryFilter = false;
+config.fixCountryFilter = true;
 config.locationCoarseTimeout = 15000;
 config.geoJSONCountriesFile = "countries.geojson";

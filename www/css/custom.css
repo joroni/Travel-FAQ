@@ -18,6 +18,10 @@
 	display:none;
 }
 
+.showpup {
+	display:block;
+}
+
 .inlineIcon {
 
     display: inline-block;
@@ -31,6 +35,8 @@
     margin-right: 6px;
 
 }
+
+
 
 .ui-bar-a, .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit {
     background-color: #ef1821 !important;
@@ -47,17 +53,28 @@
    
 }
 
+#selected_country_header {
+	background-color: rgba(255,255,255,0.9) !important;
+    border-color: rgba(255,255,255,0.7) !important;
+    color: #333;
+	text-shadow: 0 1px 0 #f3f3f3;
+	box-shadow: 0 1px 0 #333;
+}
 #footer {
-	position:relative;
+	position:fixed;
 	bottom:0px;
 	width:100%;
 	max-height:50px;
-	padding:10px 0;
+	padding:0;
+	background:rgba(204,0,9,1);
+	background-color:transparent !important;
+	border:none;
 	
 }
 
 .footer-text {
-	
+	color:#ddd;
+	text-shadow:none;
 }
 
 /*.list-divider, .ui-li-divider {
@@ -129,6 +146,21 @@
 }
 
 
+#icon-closePanel {
+	left:0px;
+
+	
+	
+}
+
+#icon-getLocation {
+	margin-left:10%;
+	
+	
+}
+.nav-icon {
+	border:0px !important;
+}
 .app-nav {
     position: fixed;
     top: 18px;
@@ -230,6 +262,7 @@ img.app-logo {
 	background-position:center;
 	background-size:cover;
 	border: none;
+	background-color:rgba(204,0,0,1);
 }
 
 .ui-bar-b, .ui-page-theme-b .ui-bar-inherit, html .ui-bar-b .ui-bar-inherit, html .ui-body-b .ui-bar-inherit, html body .ui-group-theme-b .ui-bar-inherit {
@@ -237,6 +270,28 @@ img.app-logo {
     font-weight: 100 !important;
     text-shadow: none;
     text-transform: uppercase;
+}
+
+.options-panel .ui-panel-page-container-a, .options-panel {
+   
+	padding-left:0px !important;
+	padding-right:0px !important;
+   
+}
+/*
+#listPanel{
+	margin-top:20px;
+	
+}
+*/
+
+.ui-body-a, .ui-page-theme-a .ui-body-inherit, html .ui-bar-a .ui-body-inherit, html .ui-body-a .ui-body-inherit, html body .ui-group-theme-a .ui-body-inherit {
+    background-color: rgba(255,255,255,0.9) !important;
+    border-color: rgba(255,255,255,0.7) !important;
+    color: #333;
+	padding-left:20px;
+	padding-right:20px;
+    text-shadow: 0 1px 0 #f3f3f3;
 }
 
 .content-table {
